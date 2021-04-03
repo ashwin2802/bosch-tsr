@@ -330,6 +330,8 @@ http://localhost:5000/
 
 # <a name="refs"></a> References
 
+[MicronNET](https://github.com/ppriyank/MicronNet) : Benchmark architecture used in all experiments
+
 [Albumentations](https://albumentations.ai/) : Library used for generating randomized augmentations
 
 ## External Datasets Used:
